@@ -86,9 +86,7 @@ body {
 
 .todoAdd:focus {
     border-color: #69a065;
-    /* Çerçeve rengi tıklanınca değişecek */
     box-shadow: 0 0 10px rgba(105, 160, 101, 0.8);
-    /* Gölge efekti tıklanınca görünecek */
 }
 
 .addButton {
